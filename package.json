@@ -5,10 +5,10 @@
   "keywords": [],
   "repository": {
     "type": "git",
-    "url": "https://github.com/aidik/freenas-configurator.git"
+    "url": "https://github.com/aidik/fnc.git"
   },
   "bugs": {
-    "url": "https://github.com/aidik/freenas-configurator/issues"
+    "url": "https://github.com/aidik/fnc/issues"
   },
   "author": {
     "name": "Vaclav Navratil",
